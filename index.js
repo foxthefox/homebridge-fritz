@@ -6,6 +6,7 @@
  * @license MIT
  */
 
+
 /* jslint node: true, laxcomma: true, esversion: 6 */
 "use strict";
 
