@@ -1,8 +1,8 @@
 {
-  "name": "homebridge-fritz",
+  "name": "homebridge-fritz-eve",
   "version": "0.7.3",
-  "author": "Andreas Goetz <cpuidle@gmx.de>",
-  "homepage": "https://github.com/andig/homebridge-fritz#readme",
+  "author": "Thomas Nemec <thomas@nemec.me>",
+  "homepage": "https://github.com/thncode/homebridge-fritz#readme",
   "description": "Homebridge platform plugin for Fritz!Box",
   "keywords": [
     "homebridge-plugin",
@@ -16,10 +16,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andig/homebridge-fritz.git"
+    "url": "git+https://github.com/thncode/homebridge-fritz.git"
   },
   "bugs": {
-    "url": "https://github.com/andig/homebridge-fritz/issues"
+    "url": "https://github.com/thncode/homebridge-fritz/issues"
   },
   "main": "index.js",
   "scripts": {
@@ -34,9 +34,13 @@
     "extend": "^3.0.0",
     "fritzapi": "^0.10.4",
     "fritzbox": "git+https://github.com/mapero/Fritzbox.git",
-    "valid-url": "^1.0.9"
+    "valid-url": "^1.0.9",
+    "fakegato-history": "^0.4.0"
   },
   "devDependencies": {
     "jshint": "^2.9.5"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
