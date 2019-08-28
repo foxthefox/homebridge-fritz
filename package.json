@@ -35,7 +35,7 @@
     "fritzapi": "^0.10.4",
     "fritzbox": "git+https://github.com/mapero/Fritzbox.git",
     "valid-url": "^1.0.9",
-    "fakegato-history": "^0.4.0"
+    "fakegato-history": "^0.5.3"
   },
   "devDependencies": {
     "jshint": "^2.9.5"
