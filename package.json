@@ -1,6 +1,6 @@
 {
   "name": "homebridge-fritz-eve",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "author": "Thomas Nemec <thomas@nemec.me>",
   "homepage": "https://github.com/thncode/homebridge-fritz#readme",
   "description": "Homebridge platform plugin for Fritz!Box",
